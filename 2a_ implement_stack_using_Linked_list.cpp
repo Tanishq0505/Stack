@@ -1,3 +1,6 @@
+// How to implement stack using Linked list in c++ gfg 
+// https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1
+
 #include <iostream>
 #include <stack>
 // https://youtu.be/0BTDISr-8xU?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi
