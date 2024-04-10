@@ -1,4 +1,5 @@
-// How to implement stack using array in c++
+// How to implement stack using array in c++  (gfg)
+// https://www.geeksforgeeks.org/problems/implement-stack-using-array/1
 
 #include <iostream>
 #include <stack>
